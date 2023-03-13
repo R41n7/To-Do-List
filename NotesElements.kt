@@ -1,0 +1,1 @@
+abstract class NotesElements(val mutableList: MutableList<String>): TestBack, CheckingNotes, Menu
